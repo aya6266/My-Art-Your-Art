@@ -1,0 +1,29 @@
+input {
+  display: none;
+}
+
+label {
+  display: block;
+  border: 1px solid var(--primary-alt);
+  color: var(--primary-alt);
+  padding: 1rem;
+  border-radius: 50%;
+  line-height: 1rem;
+  font-size: 1.3rem;
+  font-weight: bolder;
+  transition: background-color 0.5s;
+  transition-timing-function: ease;
+}
+
+label:hover {
+  background-color: var(--primary);
+  cursor: pointer;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
