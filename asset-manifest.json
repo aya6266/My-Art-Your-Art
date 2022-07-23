@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/My-Art-Your-Art/static/css/main.95f03438.chunk.css",
+    "main.js": "/My-Art-Your-Art/static/js/main.cfa66635.chunk.js",
+    "main.js.map": "/My-Art-Your-Art/static/js/main.cfa66635.chunk.js.map",
+    "runtime-main.js": "/My-Art-Your-Art/static/js/runtime-main.bf0de2c0.js",
+    "runtime-main.js.map": "/My-Art-Your-Art/static/js/runtime-main.bf0de2c0.js.map",
+    "static/js/2.9b932841.chunk.js": "/My-Art-Your-Art/static/js/2.9b932841.chunk.js",
+    "static/js/2.9b932841.chunk.js.map": "/My-Art-Your-Art/static/js/2.9b932841.chunk.js.map",
+    "index.html": "/My-Art-Your-Art/index.html",
+    "precache-manifest.f8bae6e18ea9b78b41f5d4554401ed72.js": "/My-Art-Your-Art/precache-manifest.f8bae6e18ea9b78b41f5d4554401ed72.js",
+    "service-worker.js": "/My-Art-Your-Art/service-worker.js",
+    "static/css/main.95f03438.chunk.css.map": "/My-Art-Your-Art/static/css/main.95f03438.chunk.css.map",
+    "static/js/2.9b932841.chunk.js.LICENSE.txt": "/My-Art-Your-Art/static/js/2.9b932841.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf0de2c0.js",
+    "static/js/2.9b932841.chunk.js",
+    "static/css/main.95f03438.chunk.css",
+    "static/js/main.cfa66635.chunk.js"
+  ]
+}
